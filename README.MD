@@ -1,4 +1,4 @@
-# PyCOM STUBS for for VSCode Intellisense Autocomplete
+# PyCom Micropython Stubs for VSCode Intellisense Autocomplete
 
 This is all based on the good work by @Josver's [MicroPython Stubber](https://github.com/Josverl/micropython-stubber)
 
