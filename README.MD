@@ -5,10 +5,10 @@ This is all based on the good work by @Josver's [MicroPython Stubber](https://gi
 > This assumes you're using [PyMakr Extentsion for VSCode](https://marketplace.visualstudio.com/items?itemName=pycom.Pymakr).
 
 1. Save any data off your board. We're going to overwrite files.
-2. If your board does not connect. Edit the address in your pymakr.conf to match the IP, COM, or Serial connection you normally use in development.
+2. If your board does not connect. Edit the address in the pymakr.conf to match the IP, COM, or Serial connection you normally use in development.
 3. Upload this repo to your PyCom Board.
 4. In the REPL `import createstubs`. This will generate the files needed into a '/stubs/BOARD_VERSION folder.
-5. When this completed Download the files from your board back into your repo.
+5. When this completes Download the files from your board back into your repo.
 
 Your new STUBS will now be in the /stubs folder.
 
