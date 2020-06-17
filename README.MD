@@ -1,3 +1,13 @@
+I've archived this because there is a solution... 
+
+# Use MICROPY-CLI to Manage all this nonesense ;-)
+
+https://github.com/BradenM/micropy-cli/
+
+
+
+
+
 # PyCom Micropython Stubs for VSCode Intellisense Autocomplete
 
 This is all based on the good work by @Josver's [MicroPython Stubber](https://github.com/Josverl/micropython-stubber)
